@@ -1,3 +1,3 @@
-# Tutorial
+# Individual Repository
 
-This is my tutorial repository.
+
